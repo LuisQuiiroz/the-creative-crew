@@ -73,5 +73,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
--- GitHub [LuisQuiiroz](https://github.com/LuisQuiiroz)
+- GitHub [LuisQuiiroz](https://github.com/LuisQuiiroz)
 - LinkedIn [LuisQuiiroz](https://www.linkedin.com/in/luis-quiiroz/)
