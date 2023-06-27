@@ -37,9 +37,6 @@
 
 ![image](https://github.com/LuisQuiiroz/the-creative-crew/assets/93633867/ce0b7fd7-57a2-40d2-88c6-d05c45f42843)
 
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - Where can I see your demo?
   
   [Here](https://the-creative-crew-q.netlify.app/)
